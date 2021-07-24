@@ -43,6 +43,6 @@ Opcional
 
 * Nuevo proyecto de laravel 7.x
 ```
-composer create-project --prefer-dist laravel/laravel:^7.0 blog
+composer create-project --prefer-dist laravel/laravel:^7.0 Project-Name
 
 ```
