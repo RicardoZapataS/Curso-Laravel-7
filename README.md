@@ -1,4 +1,4 @@
-# Instalaciones recomendadas - Curso de Laravel
+# Instalaciones recomendadas - Curso de Laravel 7
 ## Instalaciones necesarias
 
 * [Visual Studio Code](https://code.visualstudio.com/)
