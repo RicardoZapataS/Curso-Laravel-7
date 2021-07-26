@@ -3,7 +3,7 @@
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 
-* [Wamp Server](https://www.mongodb.com/try/download/compass)
+* [Wamp Server](https://www.wampserver.com/en/)
 
 * [Composer](https://getcomposer.org/download/)
 
@@ -43,6 +43,5 @@ Opcional
 
 * Nuevo proyecto de laravel 7.x
 ```
-composer create-project --prefer-dist laravel/laravel:^7.0 Project-Name
-
+composer create-project laravel/laravel:^7.0 Project-Name
 ```
