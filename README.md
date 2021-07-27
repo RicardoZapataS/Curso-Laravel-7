@@ -45,3 +45,11 @@ Opcional
 ```
 composer create-project laravel/laravel:^7.0 Project-Name
 ```
+* Levantar un local server
+```
+php artisan serve
+```
+* Crear un nuevo controlador
+```
+php artisan make:controller NameController
+```
