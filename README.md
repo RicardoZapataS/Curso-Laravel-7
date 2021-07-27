@@ -53,3 +53,13 @@ php artisan serve
 ```
 php artisan make:controller NameController
 ```
+```
+php artisan make:controller --resource NameController
+```
+* Ver todas las rutas del proyecto
+```
+php artisan route:list
+```
+```
+php artisan r:l
+```
